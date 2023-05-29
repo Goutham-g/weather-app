@@ -81,6 +81,7 @@ h1.temp {
 
     max-height: 20px;
     position: relative;
+
 }
 
 .weather.loading:after {
